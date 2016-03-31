@@ -6,7 +6,7 @@ Reactive Cocoa を使用したズンドコキヨシです。
 (http://qiita.com/rizumita/items/488ccf3ca0166318ddf6) と (http://qiita.com/bricklife/items/4bf8c0e17043498f4452) は非常に参考にさせていただきました。
 
 # How to use
-Reacitve Cocoa のフレームワークはCarthageから取得してください。
+Reacitve Cocoa のフレームワークはCarthageから取得してください。Carthageは以下のように、バイナリを使用しない方法で取得する必要があります。
 ```
 carthage update --no-use-binaries
 ```
